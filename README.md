@@ -25,4 +25,6 @@ This is a work in progress. If you find a mistake or have a suggestion, please [
 
 Run `npm install` before running the code.
 
+SPECIAL THANKS 
+
 Thanks to Google Codelabs from URL : 	https://github.com/googlecodelabs/webrtc-web
